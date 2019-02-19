@@ -1,0 +1,27 @@
+I managed to solve all of the problems by myself and managed to find an optimal solution for most of them
+
+
+Mistakes I Made:
+
+    - I didn't consider all the little things that were stated in the problem description (Somthing highly discouraged by the author of the book)
+        - That is why I was only able to find a suboptimal solution to the String Rotation Problem
+    - I didn't know that CPython has a pretty naive implementation of recursion and that the stack frames are rather big
+        - This proved to be invaluable for the Zero Matrix problem. Thus, I was not able to find an optimal solution
+    - In one of the exercises I had to check for repeated characters and something I missed was that if the sequence of character is larger than the
+      size of the alphabet, we get a repetition. This way, I could have solved the problem in O(1) for all strings with size bigger than the alphabet that we have 
+    
+
+Additional Notes:
+    
+    - It is too bad that CPython does not allows you to work directly with variable length buffers. Some of the solutions I wrote can be implemented even faster with languages that 
+      support such buffers like C, C++, etc...
+    
+
+A good idea that came to me is that for further exploration of the problems in the book, I should write my own structures maybe in C and bind them to Python
+
+
+Overal Satisfaction:
+    - I am not nearly satisfied with my current skills. I failed two of the problems (ZeroMatrix and StringRotation).
+
+
+I will proudly take the defeat and strive to be better !
