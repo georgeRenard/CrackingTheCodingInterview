@@ -1,0 +1,14 @@
+This part of the book is quite ambiguous in my opninion. 
+At first I was not sure how to approach the problems simply because the pool of assumptions that I had to make was several times larger than the previous chapter.
+
+
+Mistakes I Made:
+    - In the Intersection problem I failed to consider that two intersecting lists are one and the same after a particular node
+    
+
+
+Additional Notes:
+    - I find it hard to uncover what the meaning of the problem is. It is like the problem description is not sufficient enough
+
+
+I guess I did not do that well. I take the defeat and continue with the next chapter
